@@ -1,14 +1,14 @@
 # Portfolio
 Kemarly Dorfeuille
 
-##Résumé 
+#Résumé 
 
-##Experience 
+#Experience 
 
-##About Me
+#About Me
 
-##Contact Information
+#Contact Information
 - Email:
 - LinkedIn:
 
-##Projects
+#Projects
