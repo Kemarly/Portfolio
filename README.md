@@ -1,7 +1,5 @@
 # Kemarly Dorfeuille
 
-## Résumé 
-
 ## Experience 
 
 ## About Me
