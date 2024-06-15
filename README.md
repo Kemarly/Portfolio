@@ -1,5 +1,5 @@
-# Kemarly Dorfeuille
-
+# Portfolio
+Kemarly Dorfeuille
 
 ##Résumé 
 
@@ -8,5 +8,7 @@
 ##About Me
 
 ##Contact Information
+- Email:
+- LinkedIn:
 
 ##Projects
